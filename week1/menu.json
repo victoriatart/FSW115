@@ -1,0 +1,80 @@
+{
+    "deli":[
+       {
+          "name":"Victoria's JSON Deli",
+          "address":{
+             "street":"123 internet way",
+             "city":"Brooklyn",
+             "state":"New York"
+          }
+       },
+       {
+          "appetizers1":[
+             {
+                "type1":"Cheesy Hashbrowns",
+                "ingredients1":[
+                   "Extra Sharp Cheddar Cheese",
+                   "Locally Sourced Potatoes",
+                   "Spices"
+                ],
+                "description1":"Crunchy, Crisp & Extra Cheesy. These hasbrowns will blow you away any time of the day"
+        }, 
+        {
+             "appetizers2":[
+                {
+                   "type2":"Spicy Garlic Smashed Brussle Sprouts",
+                   "ingredients2":[
+                      "EVOO",
+                      "Locally Sourced Brussle Sprouts",
+                      "Spices"
+                   ],
+                   "description2":"These ultra crispy, smashed brussle sprouts have the right amount of heat to get you through the day"
+        },
+        {
+                "hotSandwiches1":[
+                    {
+                       "type1":"Sriracha Jam Grilled Cheese",
+                       "ingredients1":[
+                          "Multigrain Bread",
+                          "Extra Sharp Cheddar Cheese",
+                          "Homemade Sriracha Jam"
+                       ],
+                       "description1":"A hot twist on an old classic"
+        },
+        {
+                    "hotSandwiches2":[
+                        {
+                        "type2":"Brooklyn Chopped Cheese",
+                        "ingredients2":[
+                            "Hero",
+                            "American Cheese",
+                            "Ground Beef"
+                        ],
+                        "description2":"Yerr, get your chopped cheese here. Ask for hot sauce to spice it up"
+        },
+        {
+                    "coldSandwiches1":[
+                        {
+                        "type1":"Salami & Cream Cheese on white bread",
+                        "ingredients1":[
+                            "White Bread",
+                            "Cream Cheese",
+                            "Boars Head Salami"
+                        ],
+                        "description1":"A take on a childhood favorite, salami cheese roll up!"
+                },
+                {
+                    "coldSandwiches2":[
+                        {
+                           "type2":"Lox with Cream Cheese",
+                           "ingredients2":[
+                              "Bagel of your choice",
+                              "Cream Cheese of your choice",
+                              "Ethically Sourced Lox"
+                           ],
+                           "description2":"Perfect lox on a bagel of your choice, add whatever cream cheese you please."
+                },
+                {
+                    "Drinks":["Manhattan Special", "Fresh Squeezed OJ", "Nitro Cold Brew"]
+                }
+            
